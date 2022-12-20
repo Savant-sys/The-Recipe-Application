@@ -1,7 +1,8 @@
 # The Recipe Application
-Provides the information of each meal by countries for the recipes
+Provides the information of each meal by countries for the recipes.
 
-Console application using API from TheMealDB.com
+# Overview
+This application is using the API from the website for the information of the recipes.
 
 https://www.themealdb.com/
 
