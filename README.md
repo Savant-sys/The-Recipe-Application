@@ -3,8 +3,8 @@ Provides the information of each meal by countries for the recipes.
 
 # Overview
 This application is using the API from the website for the information of the recipes.
-
-https://www.themealdb.com/
+The database of TheMealDB contains API files that the program will be able to receive it.
+>https://www.themealdb.com/
 
 # Installation
 Simply run the application by executing recipe.py after installaton.
