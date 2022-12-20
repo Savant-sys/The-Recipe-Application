@@ -6,7 +6,7 @@ https://www.themealdb.com/
 # Installation
 Simply run the application by executing recipe.py on cmd after installaton.
 
-**Requirements** 
+# Requirements
 * Create a console application. 
 * Display an Application Title and the Menu Options that the user can refer to when 
 using the application. 
