@@ -4,7 +4,7 @@ Console application using API from TheMealDB.com
 https://www.themealdb.com/
 
 # Installation
-Simply run the application by executing recipe.py on cmd after installaton.
+Simply run the application by executing recipe.py after installaton.
 
 # Requirements
 * Create a console application. 
