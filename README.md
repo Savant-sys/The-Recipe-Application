@@ -3,6 +3,9 @@ Console application using API from TheMealDB.com
 
 https://www.themealdb.com/
 
+# Installation
+Simply run the application by executing recipe.py on cmd after installaton.
+
 **Requirements** 
 * Create a console application. 
 * Display an Application Title and the Menu Options that the user can refer to when 
@@ -16,7 +19,3 @@ a selected meal.
 meals from themealdb.com. 
 * Allow the user to display a list of areas (Chinese, French, Thai, etc.). 
 * Allow the user to display a list of meals based on a selected area.
-
-# Installation
-Simply run the application by executing recipe.py on cmd after installation.
-	run recipe.py
